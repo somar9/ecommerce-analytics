@@ -20,7 +20,7 @@ An end-to-end SQL analytics pipeline analysing 100,000+ real Brazilian e-commerc
 
 ## Dashboard
 
-![Olist E-Commerce Analytics Dashboard](images/dashboard.png)
+![Olist E-Commerce Analytics Dashboard](Olist_dashboard.png)
 
 ---
 
