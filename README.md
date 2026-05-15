@@ -88,17 +88,6 @@ customers ──── orders ──── order_items ──── products ─
 
 ---
 
-## SQL Techniques Demonstrated
-
-| Query | Techniques |
-|---|---|
-| RFM Segmentation | CTEs, `NTILE()` window function, `CASE`, multi-table `JOIN` |
-| Revenue Funnel | CTEs, `EXTRACT`, `EPOCH`, date arithmetic, `CASE` |
-| Category Performance | 5-table `JOIN`, `HAVING`, `COALESCE`, `RANK()` window function |
-| Cohort Retention | `DATE_TRUNC`, `MIN() OVER`, `AGE()`, self-join, retention calculation |
-
----
-
 ## Setup
 
 ### Prerequisites
