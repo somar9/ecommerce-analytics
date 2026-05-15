@@ -1,0 +1,7 @@
+"segment","num_customers","avg_spend","avg_orders","avg_days_since_purchase"
+At Risk,22405,173.86,1.06,2901
+Champions,14809,169.07,1.07,3205
+New Customers,15041,164.00,1.00,3206
+Lost,14939,162.75,1.00,2901
+Loyal Customers,18799,158.87,1.03,3099
+Needs Attention,7364,154.63,1.00,3031

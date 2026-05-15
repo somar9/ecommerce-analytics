@@ -1,0 +1,53 @@
+"category","num_orders","total_revenue","avg_order_value","avg_review_score","avg_delivery_days","num_sellers","revenue_rank","quality_rank","speed_rank","category_label"
+bed_bath_table,9177,1707029.45,146.09,3.92,12.8,188,1,48,35,High Revenue
+health_beauty,8600,1611835.65,165.37,4.19,11.9,479,2,16,20,High Revenue
+computers_accessories,6499,1557712.98,196.51,3.99,13.2,279,3,41,41,High Revenue
+furniture_decor,6260,1391930.08,162.65,3.96,12.8,350,4,44,35,High Revenue
+watches_gifts,5454,1380487.85,228.86,4.07,12.6,95,5,32,30,High Revenue
+sports_leisure,7486,1348658.55,154.38,4.16,12.1,465,6,20,24,High Revenue
+housewares,5709,1067227.12,149.18,4.12,11.0,451,7,24,11,High Revenue
+garden_tools,3428,807658.18,181.41,4.08,13.7,226,8,30,47,High Revenue
+auto,3792,783151.61,183.84,4.11,12.2,370,9,26,25,High Revenue
+cool_stuff,3531,738259.78,189.88,4.19,12.3,256,10,16,26,High Revenue
+office_furniture,1244,635226.32,363.40,3.55,20.9,30,11,52,52,High Revenue
+toys,3774,598817.88,143.91,4.21,11.6,241,12,15,16,High Revenue
+baby,2787,522367.53,168.72,4.08,12.5,238,13,30,29,High Revenue
+perfumery,3076,496145.00,141.96,4.18,11.8,173,14,18,18,Average
+telephony,4069,467534.48,102.08,4.00,12.9,141,15,40,37,Average
+stationery,2251,307527.67,120.27,4.24,12.7,172,16,7,32,Average
+pet_shop,1680,306604.52,153.46,4.23,11.2,132,17,8,13,Average
+computers,174,265596.74,1246.93,4.23,13.3,8,18,8,42,Average
+uncategorisied,1402,246459.29,149.46,3.94,12.6,250,19,46,30,Average
+electronics,2498,241525.40,86.60,4.07,12.9,145,20,32,37,Average
+construction_tools_construction,731,237764.37,253.75,4.10,10.6,123,21,27,5,Average
+musical_instruments,605,218452.35,320.31,4.23,12.7,66,22,8,32,Average
+small_appliances,604,216523.38,318.89,4.23,10.9,96,23,8,9,Average
+fashion_bags_accessories,1811,214066.77,101.26,4.18,11.2,97,24,18,13,Average
+fixed_telephony,209,191732.14,740.28,3.76,12.7,48,25,50,32,Average
+luggage_accessories,1015,184336.91,161.13,4.33,10.7,73,26,4,7,Average
+consoles_games,1009,182033.71,161.09,4.13,13.6,81,27,22,46,Average
+home_construction,481,134093.49,215.24,3.97,13.0,67,28,43,39,Average
+furniture_living_room,409,133584.61,259.89,3.95,13.9,55,29,45,49,Average
+home_appliances_2,226,118928.62,453.93,4.23,13.7,45,30,8,47,Average
+agro_industry_and_commerce,177,115632.24,470.05,4.23,11.9,32,31,8,20,Average
+home_appliances,744,97353.05,120.79,4.23,11.2,48,32,8,13,Average
+air_conditioning,242,87649.99,303.29,4.05,12.3,51,33,38,26,Average
+home_confort,390,83396.87,177.06,3.93,13.5,20,34,47,44,Average
+kitchen_dining_laundry_garden_furniture,239,73091.92,252.91,4.03,12.0,51,35,39,23,Average
+drinks,287,69406.21,187.08,4.13,10.4,36,36,22,3,Average
+signaling_and_security,137,68131.02,344.10,4.06,10.4,45,37,36,3,Average
+construction_tools_lights,239,67189.17,222.48,4.10,9.5,35,38,27,1,High Quality
+books_general_interest,492,62471.64,114.63,4.50,11.7,53,39,1,17,Average
+construction_tools_safety,158,60887.84,327.35,3.98,11.8,33,40,42,18,Average
+audio,345,59829.88,159.55,3.85,13.3,36,41,49,42,Average
+industry_commerce_and_business,230,54978.59,206.69,4.12,10.7,28,42,24,7,Average
+market_place,272,44518.59,137.83,4.09,12.3,55,43,29,26,Average
+food,437,43394.79,86.27,4.27,9.6,56,44,5,2,High Quality
+costruction_tools_garden,190,41584.88,172.55,4.15,11.9,32,45,21,20,Average
+fashion_shoes,231,31538.38,117.68,4.27,15.4,12,46,5,51,Average
+art,193,28296.90,138.03,4.07,11.1,32,47,32,12,Average
+food_drink,221,26794.13,95.35,4.39,10.9,32,48,3,9,Average
+books_technical,255,24452.59,91.58,4.40,10.6,25,49,2,5,Average
+fashion_male_clothing,105,16489.04,120.36,3.65,13.1,12,50,51,40,Average
+christmas_supplies,123,13279.26,91.58,4.07,14.6,16,51,32,50,Average
+fashion_underwear_beach,116,12351.82,88.86,4.06,13.5,9,52,36,44,Average
